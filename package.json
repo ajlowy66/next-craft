@@ -42,7 +42,6 @@
     "tailwindcss": "^3.0.23"
   },
   "bugs": {
-    "url": "https://github.com/izuolan/next-craft/issues",
-    "email": "i@zuolan.me"
+    "url": "https://github.com/izuolan/next-craft/issues"
   }
 }
