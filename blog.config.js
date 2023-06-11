@@ -1,5 +1,5 @@
 const BLOG = {
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW']
+  lang: 'en-US', // ['en-US']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#FFFFFF', // use hex value, don't forget '#' e.g #fffefc
